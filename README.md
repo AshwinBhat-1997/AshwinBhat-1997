@@ -4,9 +4,9 @@ Hi there! 👋 I'm Ashwin Bhat, a Front End Developer with a passion for buildin
 
 
 # 💻 Tools and Technologies
- 1. Programming Languages : HTML CSS and JavaScript <br/>
- 2. Library/Framework : React.js <br/>
- 3. Responsive Design : Bootstrap <br/>
+ 1. Programming Languages : HTML CSS and JavaScript. <br/>
+ 2. Library/Framework : React.js. <br/>
+ 3. Responsive Design : Bootstrap. <br/>
  4. Version Control : Git. <br/>
 
 
